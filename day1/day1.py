@@ -13,5 +13,6 @@ def main():
         day1(total)
         day2(total)
 
+
 if __name__ == '__main__':
     main()
